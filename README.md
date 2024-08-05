@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on small Projects.
 - 📫 How to reach me Discord: the_first_emperor or here on GitHub! 
 - 😄 Pronouns: -
-- ⚡ Fun fact: Potatoes and onions should not be stored together they accelerate spoilage.
+- ⚡ Fun fact: Potatoes and onions should not be stored together. They give off gases that will accelerate spoilage of each other.
 
 <!---
 Markito03/Markito03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
