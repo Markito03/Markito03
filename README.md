@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Markito03
-- 👀 I’m interested in Sport, Gaming, Esports and Coding!
+- 👀 I’m interested in Sports, Gaming, Esports and Coding!
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on small Projects.
 - 📫 How to reach me Discord: the_first_emperor or here on GitHub! 
