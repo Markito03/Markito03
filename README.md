@@ -2,7 +2,7 @@
 - 👀 I’m interested in Sports, Gaming, Esports and Coding!
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on small Projects.
-- 📫 How to reach me Discord: the_first_emperor or here on GitHub! 
+- 📫 You can reach me via Discord: the_first_emperor and GitHub! 
 - 😄 Pronouns: -
 - ⚡ Fun fact: Potatoes and onions should not be stored together. They give off gases that will accelerate spoilage of each other.
 
