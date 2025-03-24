@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Markito03
+- 👋 Hi, I’m Marko
 - 👀 I’m interested in Sports, Gaming and Coding!
 - 🌱 I’m currently learning GoDot and Python.
 - 💞️ I’m looking to collaborate on small Projects.
